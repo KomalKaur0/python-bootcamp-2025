@@ -22,6 +22,7 @@ here are some more resources sorted by topic
 career:
 - [COFFIES undergrad page](https://coffies.stanford.edu:8080/teams/reu)
 - documentation
+    - [built in python functions](https://docs.python.org/3/library/functions.html)
 - python basics
 - git, terminal
 - matplotlib
@@ -41,3 +42,5 @@ https://coffies.stanford.edu:8080/people/komal_kaur
 Dan Zevin - dzevin@ssl.berkeley.edu
 
 https://coffies.stanford.edu:8080/people/dan_zevin
+
+workshops and materials created by Komal Kaur
