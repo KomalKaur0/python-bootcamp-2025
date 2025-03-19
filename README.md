@@ -8,6 +8,8 @@ tbd
 
 ## weekly schedule
 - week 1: python basics
+    - [slides](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week1/python%20basics.pdf)
+    - [notebook](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week1/BLANK%20conditionals%20and%20loops%20copy.ipynb)
 - week 2: git, using terminal
 - week 3: matplotlib
 - week 4: astropy, HR diagram
