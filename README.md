@@ -3,6 +3,7 @@ welcome to the repo for COFFIES REU 2025 python bootcamp.
 this  is where you can find everything you need for the python bootcamps this summer. feel free to poke around and let me know if there’s anything you’re curious about :D
 
 ## zoom link and meeting info
+remember to open the BLANK notebooks for interactive demos. solutions are provided in the notebooks starting with SOLN.
 tbd
 
 ## weekly schedule
