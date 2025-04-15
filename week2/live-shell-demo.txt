@@ -1,0 +1,24 @@
+Last login: Tue Apr 15 10:17:03 on ttys000
+(base) komalkaur@Komals-MacBook-Pro ~ % pwd
+/Users/komalkaur
+(base) komalkaur@Komals-MacBook-Pro ~ % cd Desktop 
+(base) komalkaur@Komals-MacBook-Pro Desktop % mkdir lecture-notes
+(base) komalkaur@Komals-MacBook-Pro Desktop % cd lecture-notes 
+(base) komalkaur@Komals-MacBook-Pro lecture-notes % ls
+(base) komalkaur@Komals-MacBook-Pro lecture-notes % vim python-notes.txt
+(base) komalkaur@Komals-MacBook-Pro lecture-notes % cat python-notes.txt 
+
+notes notes notes i love python
+(base) komalkaur@Komals-MacBook-Pro lecture-notes % ls
+python-notes.txt
+(base) komalkaur@Komals-MacBook-Pro lecture-notes % 
+
+
+
+
+
+
+
+
+
+

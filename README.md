@@ -1,10 +1,17 @@
 # python-bootcamp-2025
-welcome to the repo for COFFIES REU 2025 python bootcamp. 
-this  is where you can find everything you need for the python bootcamps this summer. feel free to poke around and let me know if there’s anything you’re curious about :D
+welcome to the repo for COFFIES REU 2025 python bootcamp. i'm komal, i'll be running this bootcamp and i'm so excited to work with you all!
+
+this is where you can find everything you need for the python bootcamps this summer. feel free to poke around and let me know if there’s anything you’re curious about :D
+
+prerequisites: please have a working installation of python and an IDE. i will support and use VS Code and jupyter notebooks, but if you already have a system that works for you, feel free to stick with it. here are some resources to get you started, but if 2025 REU students need help let me know!!
+- [python and IDEs](https://realpython.com/python-ides-code-editors-guide/)
+- [VS Code setup](https://code.visualstudio.com/docs/setup/setup-overview)
+- [jupyter notebook setup](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
 ## zoom link and meeting info
 remember to open the BLANK notebooks for interactive demos. solutions are provided in the notebooks starting with SOLN.
-tbd
+
+meeting info: tbd
 
 ## weekly schedule
 - week 1: python basics
@@ -24,10 +31,12 @@ tbd
 here are some more resources sorted by topic
 career:
 - [COFFIES undergrad page](https://coffies.stanford.edu:8080/teams/reu)
-- documentation
-    - [built in python functions](https://docs.python.org/3/library/functions.html)
 - python basics
+    - [built in python functions](https://docs.python.org/3/library/functions.html)
 - git, terminal
+    - [basic unix commands](https://mally.stanford.edu/~sr/computing/basic-unix.html)
+    - [UC Berkeley 61B git guide](https://fa24.datastructur.es/resources/guides/git/)
+    - [git default text editor](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config)
 - matplotlib
 - astropy
 - OOP
@@ -41,6 +50,8 @@ career:
 Komal Kaur - komalkaur@berkeley.edu
 
 https://coffies.stanford.edu:8080/people/komal_kaur
+
+Emmanuel Paz - mannypaz365@berkeley.edu
 
 Dan Zevin - dzevin@ssl.berkeley.edu
 
