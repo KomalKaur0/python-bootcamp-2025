@@ -18,6 +18,7 @@ meeting info: tbd
     - [slides](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week1/python%20basics.pdf)
     - [notebook](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week1/BLANK%20conditionals%20and%20loops%20copy.ipynb)
 - week 2: git, using terminal
+    - [slides](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week2/git-terminal-lec.pdf) 
 - week 3: matplotlib
 - week 4: astropy, HR diagram
 - week 5: basic sim, OOP
