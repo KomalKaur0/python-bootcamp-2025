@@ -30,6 +30,7 @@ meeting info: tbd
 
 ## additional resources
 here are some more resources sorted by topic
+
 career:
 - [COFFIES undergrad page](https://coffies.stanford.edu:8080/teams/reu)
 - python basics
