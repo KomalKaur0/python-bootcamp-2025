@@ -40,6 +40,7 @@ here are some more resources sorted by topic
     - [UC Berkeley 61B git guide](https://fa24.datastructur.es/resources/guides/git/)
     - [git default text editor](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config)
 - matplotlib
+    - [np.random](https://www.w3schools.com/python/numpy/numpy_random.asp)
 - astropy
 - OOP
 - sunpy
