@@ -20,6 +20,7 @@ meeting info: tbd
 - week 2: git, using terminal
     - [slides](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week2/git-terminal-lec.pdf) 
 - week 3: matplotlib
+    - [notebook](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week3/BLANK-matplotlib-tutorial%20copy.ipynb)
 - week 4: astropy, HR diagram
 - week 5: basic sim, OOP
 - week 6: sunpy
