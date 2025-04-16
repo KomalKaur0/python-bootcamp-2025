@@ -42,6 +42,7 @@ here are some more resources sorted by topic
     - [git default text editor](https://git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config)
 - matplotlib
     - [np.random](https://www.w3schools.com/python/numpy/numpy_random.asp)
+    - [example plots](https://matplotlib.org/stable/gallery/index.html)
 - astropy
 - OOP
 - sunpy
