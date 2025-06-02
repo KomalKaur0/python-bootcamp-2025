@@ -11,7 +11,7 @@ prerequisites: please have a working installation of python and an IDE. i will s
 ## zoom link and meeting info
 remember to open the BLANK notebooks for interactive demos. solutions are provided in the notebooks starting with SOLN.
 
-meeting info: tbd
+meeting info: tuesdays 6pm pacific - [zoom link](https://berkeley.zoom.us/j/92467539403)
 
 ## weekly schedule
 - week 1: python basics
