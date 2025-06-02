@@ -56,7 +56,11 @@ Komal Kaur - komalkaur@berkeley.edu
 
 https://coffies.stanford.edu:8080/people/komal_kaur
 
-Emmanuel Paz - mannypaz365@berkeley.edu
+Claudia Holland - claudiaholland@berkeley.edu
+
+Phoebe Mahlin - pcmahlin@gmail.com
+
+https://coffies.stanford.edu:8080/people/phoebe_mahlin
 
 Dan Zevin - dzevin@ssl.berkeley.edu
 
