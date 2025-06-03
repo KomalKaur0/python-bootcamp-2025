@@ -45,6 +45,7 @@ here are some more resources sorted by topic
     - [np.random](https://www.w3schools.com/python/numpy/numpy_random.asp)
     - [example plots](https://matplotlib.org/stable/gallery/index.html)
 - astropy
+    -[astropy website](https://www.astropy.org)
 - OOP
 - sunpy
 - mcmc
