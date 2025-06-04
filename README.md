@@ -1,5 +1,5 @@
 # python-bootcamp-2025
-welcome to the repo for COFFIES REU 2025 python bootcamp. i'm komal, i'll be running this bootcamp and i'm so excited to work with you all!
+welcome to the repo for HelioHub 2025 python bootcamp. i'm komal, i'll be running this bootcamp and i'm so excited to work with you all!
 
 this is where you can find everything you need for the python bootcamps this summer. feel free to poke around and let me know if there’s anything you’re curious about :D
 
