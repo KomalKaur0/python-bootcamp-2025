@@ -48,6 +48,8 @@ here are some more resources sorted by topic
 - astropy
     -[astropy website](https://www.astropy.org)
 - OOP
+    -[OOP in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
+    -[OOP in general](https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/)
 - sunpy
 - mcmc
 - plasmapy
