@@ -24,6 +24,7 @@ meeting info: tuesdays 6pm pacific - [zoom link](https://berkeley.zoom.us/j/9246
 - week 4: astropy, HR diagram
     - [notebook](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week4/BLANK-astropy%20copy.ipynb)
 - week 5: basic sim, OOP
+    - [notebook](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week5/BLANK-oop-tutorial.ipynb)
 - week 6: sunpy
 - week 7: noise mcmc simulation
 - week 8: plasmapy
