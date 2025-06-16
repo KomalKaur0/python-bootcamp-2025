@@ -51,6 +51,10 @@ here are some more resources sorted by topic
     -[OOP in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
     -[OOP in general](https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/)
 - sunpy
+    - [documentation](https://docs.sunpy.org/en/stable/reference/index.html)
+    - [AAS data workshop](https://github.com/sunpy/aas-2021-workshop/blob/main/01-Search-and-Download-Solar-Data.ipynb)
+    - [AAS coord workshop](https://github.com/sunpy/aas-2021-workshop/blob/main/04-Fabulous-and-Powerful-SunPy-Coordinates.ipynb)
+    - [solar coords](https://en.wikipedia.org/wiki/Solar_coordinate_systems)
 - mcmc
 - plasmapy
 - HAPI
