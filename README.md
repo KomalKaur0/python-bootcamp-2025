@@ -59,6 +59,9 @@ here are some more resources sorted by topic
 - noise
     - [electronic noise](https://www.youtube.com/watch?v=IfZnlOFfJyg)
 - mcmc
+    - [mcmc overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC5862921/)
+    - [statlect mcmc](https://www.statlect.com/fundamentals-of-statistics/Markov-Chain-Monte-Carlo)
+    - [mcmc explained](https://towardsdatascience.com/monte-carlo-markov-chain-mcmc-explained-94e3a6c8de11/)
 - plasmapy
 - HAPI
 - best practices
