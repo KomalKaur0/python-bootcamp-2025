@@ -64,6 +64,7 @@ here are some more resources sorted by topic
     - [statlect mcmc](https://www.statlect.com/fundamentals-of-statistics/Markov-Chain-Monte-Carlo)
     - [mcmc explained](https://towardsdatascience.com/monte-carlo-markov-chain-mcmc-explained-94e3a6c8de11/)
 - plasmapy
+    - [PyHC 2024 summer school plasmapy tutorial](https://github.com/heliophysicsPy/summer-school-24/blob/main/plasmapy-tutorial/plasmapy-tutorial-completed.ipynb)
 - HAPI
 - best practices
 
