@@ -32,7 +32,6 @@ meeting info: tuesdays 6pm pacific - [zoom link](https://berkeley.zoom.us/j/9246
 - week 8: plasmapy
     - [notebook](https://github.com/KomalKaur0/python-bootcamp-2025/blob/main/week8/BLANK-plasmapy-tutorial.ipynb)
 - week 9: HAPI
-- week 10: best practices
 
 ## additional resources
 here are some more resources sorted by topic
