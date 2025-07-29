@@ -66,7 +66,14 @@ here are some more resources sorted by topic
 - plasmapy
     - [PyHC 2024 summer school plasmapy tutorial](https://github.com/heliophysicsPy/summer-school-24/blob/main/plasmapy-tutorial/plasmapy-tutorial-completed.ipynb)
 - HAPI
+    - [HAPI website](http://hapi-server.org)
+    - [PyHC 2024 summer school HAPI tutorial](https://github.com/heliophysicsPy/summer-school-24/tree/main/hapi-tutorial)
 - best practices
+    - [my list](https://docs.google.com/document/d/1mms3Jm9JJVmh6uz__5iXF7spFb8_dbBVOt1IANb2Fgg/edit?tab=t.0)
+    - [unit testing](https://testomat.io/blog/a-guide-to-the-basics-of-python-testing-how-to-write-unit-tests-and-organize-execution-test-cases/)
+    - [scripting](https://www.codecademy.com/article/python-scripting)
+    - [print debugging](https://learningdaily.dev/a-gentle-introduction-to-print-statement-debugging-8078e30a6c9c)
+
 
 ## contact information
 Komal Kaur - komalkaur@berkeley.edu
