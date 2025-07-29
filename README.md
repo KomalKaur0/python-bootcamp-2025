@@ -49,10 +49,10 @@ here are some more resources sorted by topic
     - [np.random](https://www.w3schools.com/python/numpy/numpy_random.asp)
     - [example plots](https://matplotlib.org/stable/gallery/index.html)
 - astropy
-    -[astropy website](https://www.astropy.org)
+    - [astropy website](https://www.astropy.org)
 - OOP
-    -[OOP in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
-    -[OOP in general](https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/)
+    - [OOP in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
+    - [OOP in general](https://www.geeksforgeeks.org/introduction-of-object-oriented-programming/)
 - sunpy
     - [documentation](https://docs.sunpy.org/en/stable/reference/index.html)
     - [AAS data workshop](https://github.com/sunpy/aas-2021-workshop/blob/main/01-Search-and-Download-Solar-Data.ipynb)
